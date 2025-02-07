@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiba04" alt="adiba04" /></a> </p>
 
-- 🔭 I’m currently working in **Alegria - The Festival of Joy**
+- 🔭 I’m currently working in [Alegria - The Festival of Joy as a Content Head](https://drive.google.com/file/d/14aTR3YfqQa6b1hp2I21ZKrLXvVmJrdbp/view)
 
 - 🌱 I’m currently learning **Html, Css, Js**
 
 - 👯 I’m looking to collaborate on **Content Work**
 
-- 🤝 I’m looking for help with **Coding**
+- 🤝 I’m looking for help with **Codinf**
 
 - 📫 How to reach me **shadiba234@gmail.com**
 
