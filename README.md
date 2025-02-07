@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Content Work**
 
-- 🤝 I’m looking for help with **Codinf**
+- 🤝 I’m looking for help with **Coding**
 
 - 📫 How to reach me **shadiba234@gmail.com**
 
